@@ -33,7 +33,7 @@ Our mission is to enhance the adventure-seeking experience by providing a platfo
 - **Partnerships**: Establish partnerships with businesses and advertisers to enhance user experience and generate revenue.
 
 ## Product Backlog
-The initial product backlog is created and maintained in [Jira/DevOps](URL_TO_BACKLOG).
+The initial product backlog is created and maintained in [Jira](https://outdora.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiMmU4YjY1ZmNkOTk1NDNkOWE4OTNjZWU0MmE2NWM4ZDUiLCJwIjoiaiJ9).
 
 ## Definition of Ready
 Our Definition of Ready for product backlog items includes:
@@ -47,4 +47,4 @@ The product backlog is ordered based on priority and dependencies. The rationale
 
 ## Project Repository Links
 - **GitHub Repository**: [Outdora](https://github.com/ViralFawkes/Outdora.git)
-- **Jira/DevOps Backlog**: [Outdora Backlog](URL_TO_BACKLOG)
+- **Jira Backlog**: [Outdora Backlog](https://outdora.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiMmU4YjY1ZmNkOTk1NDNkOWE4OTNjZWU0MmE2NWM4ZDUiLCJwIjoiaiJ9)
