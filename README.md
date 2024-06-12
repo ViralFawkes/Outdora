@@ -43,7 +43,14 @@ Our Definition of Ready for product backlog items includes:
 4. **Estimated in Story Points**: Size of the backlog item.
 
 ## Ordering of Backlog
-The product backlog is ordered based on priority and dependencies. The rationale for prioritization is documented in the project repository.
+The product backlog is ordered based on the following priorities:
+1. **Critical Functionality**: Features essential for the core functionality of the app (e.g., user authentication, profile creation).
+2. **User Engagement**: Features that enhance user engagement and interaction (e.g., in-app messaging, matching algorithm).
+3. **Safety and Security**: Features ensuring user data security and safe usage of the app (e.g., database encryption).
+4. **Feedback Integration**: Features for collecting and integrating user feedback to improve the app.
+
+This prioritization ensures that the most critical and impactful features are developed first.
+
 
 ## Project Repository Links
 - **GitHub Repository**: [Outdora](https://github.com/ViralFawkes/Outdora.git)
