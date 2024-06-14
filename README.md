@@ -3,7 +3,7 @@
 ## Team Members and Scrum Roles
 - **Product Owner**: Troy Acevedo
 - **Scrum Master**: Krishna Boddu
-- **Development Team Members**: Kinjal Rabari, Troy Acevedo
+- **Development Team Members**: Krishna Boddu, Troy Acevedo
 
 ## Project Vision
 
